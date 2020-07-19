@@ -882,4 +882,16 @@ These Official Images have exemplary `Dockerfile`s:
 * [More about Automated Builds](../../docker-hub/builds/index.md)
 * [Guidelines for Creating Official Images](../../docker-hub/official_images.md)
 
-New lines from Fah
+New lines from Fah2
+
+# Checkout to working branch
+# 1. git branch branch_name 
+# 2. git checkout branch_name
+
+# 1. Edit files
+
+#Git commands
+# 2. Check status
+# 3. git add file1 file2 | . | *
+# 4. git commit -m "commit message"
+# 5. git push | git push --set-upstream origin branch_name
