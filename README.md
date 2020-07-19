@@ -881,3 +881,5 @@ These Official Images have exemplary `Dockerfile`s:
 * [More about Base Images](baseimages.md)
 * [More about Automated Builds](../../docker-hub/builds/index.md)
 * [Guidelines for Creating Official Images](../../docker-hub/official_images.md)
+
+New lines from Fah
